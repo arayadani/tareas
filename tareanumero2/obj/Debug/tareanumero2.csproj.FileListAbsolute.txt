@@ -1,0 +1,8 @@
+C:\Users\araya\OneDrive\Escritorio\Programacion II\tareanumero2\tareanumero2\bin\Debug\tareanumero2.exe.config
+C:\Users\araya\OneDrive\Escritorio\Programacion II\tareanumero2\tareanumero2\bin\Debug\tareanumero2.exe
+C:\Users\araya\OneDrive\Escritorio\Programacion II\tareanumero2\tareanumero2\bin\Debug\tareanumero2.pdb
+C:\Users\araya\OneDrive\Escritorio\Programacion II\tareanumero2\tareanumero2\obj\Debug\tareanumero2.csproj.AssemblyReference.cache
+C:\Users\araya\OneDrive\Escritorio\Programacion II\tareanumero2\tareanumero2\obj\Debug\tareanumero2.csproj.SuggestedBindingRedirects.cache
+C:\Users\araya\OneDrive\Escritorio\Programacion II\tareanumero2\tareanumero2\obj\Debug\tareanumero2.csproj.CoreCompileInputs.cache
+C:\Users\araya\OneDrive\Escritorio\Programacion II\tareanumero2\tareanumero2\obj\Debug\tareanumero2.exe
+C:\Users\araya\OneDrive\Escritorio\Programacion II\tareanumero2\tareanumero2\obj\Debug\tareanumero2.pdb
